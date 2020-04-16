@@ -1,0 +1,3 @@
+﻿  sorts.cpp
+c:\users\user\desktop\academics\cs 32\hw3\hw3\hw3\sorts.cpp(189): warning C4018: '<=': signed/unsigned mismatch
+  HW3.vcxproj -> C:\Users\User\Desktop\Academics\CS 32\HW3\HW3\Debug\HW3.exe
